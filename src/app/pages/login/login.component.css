@@ -1,7 +1,8 @@
 .login-container {
+  height: 100vh;
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  align-items: center;
   .login-card {
     background-color: rgba(0, 0, 0, 0.796);
     width: 450px;
